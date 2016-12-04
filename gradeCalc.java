@@ -1,7 +1,7 @@
-/* Assignment 1
+/* 
 * By William Armswoerhy
 */
-package assignment1;
+package gradeCalc;
 import java.util.Scanner;
 public class Assignment1 
 {    public static void main(String[] args) 
